@@ -1,4 +1,4 @@
-### Hi 😀
+### Hi 😀,
 
 I'm a front-end developer, lover for the process of learning, managing and developing.
 
